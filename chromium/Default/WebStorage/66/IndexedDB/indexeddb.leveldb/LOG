@@ -1,0 +1,15 @@
+2025/10/07-14:16:27.565 16aaed Reusing MANIFEST /home/juanqg/.config/chromium/Default/WebStorage/66/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/10/07-14:16:27.565 16aaed Recovering log #4
+2025/10/07-14:16:27.569 16aaed Reusing old log /home/juanqg/.config/chromium/Default/WebStorage/66/IndexedDB/indexeddb.leveldb/000004.log 
+2025/10/07-14:16:33.931 16aade Level-0 table #8: started
+2025/10/07-14:16:33.934 16aade Level-0 table #8: 61958 bytes OK
+2025/10/07-14:16:33.939 16aade Delete type=0 #4
+2025/10/07-14:16:33.939 16aade Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/07-14:16:33.939 16aade Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\xa0LN\x9byB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 615 : 1
+2025/10/07-14:16:33.939 16aade Compacting 1@1 + 1@2 files
+2025/10/07-14:16:33.942 16aade Generated table #9@1: 42 keys, 1188 bytes
+2025/10/07-14:16:33.943 16aade Compacted 1@1 + 1@2 files => 1188 bytes
+2025/10/07-14:16:33.948 16aade compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/07-14:16:33.948 16aade Delete type=2 #5
+2025/10/07-14:16:33.948 16aade Delete type=2 #8
+2025/10/07-14:16:33.948 16aade Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x00\xa0LN\x9byB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 615 : 1 .. (end); will stop at (end)

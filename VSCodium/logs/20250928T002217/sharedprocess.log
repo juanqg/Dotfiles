@@ -1,0 +1,5 @@
+2025-09-28 00:23:16.637 [info] Getting Manifest... tailscale.vscode-tailscale
+2025-09-28 00:23:17.368 [info] Installing extension: tailscale.vscode-tailscale {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanqg/.vscode-oss/extensions/extensions.json","path":"/home/juanqg/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.26450","date":"2025-09-25T18:34:07.817Z"}}
+2025-09-28 00:23:22.482 [info] Extracted extension to file:///home/juanqg/.vscode-oss/extensions/tailscale.vscode-tailscale-1.0.0-universal: tailscale.vscode-tailscale
+2025-09-28 00:23:22.492 [info] Renamed to /home/juanqg/.vscode-oss/extensions/tailscale.vscode-tailscale-1.0.0-universal
+2025-09-28 00:23:22.509 [info] Extension installed successfully: tailscale.vscode-tailscale vscode-userdata:/home/juanqg/.vscode-oss/extensions/extensions.json

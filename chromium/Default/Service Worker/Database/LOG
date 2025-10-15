@@ -1,0 +1,6 @@
+2025/10/11-08:49:53.803 d40 Reusing MANIFEST /home/juanqg/.config/chromium/Default/Service Worker/Database/MANIFEST-000001
+2025/10/11-08:49:53.803 d40 Recovering log #3
+2025/10/11-08:49:53.815 d40 Reusing old log /home/juanqg/.config/chromium/Default/Service Worker/Database/000003.log 
+2025/10/12-09:18:02.654 d1d Level-0 table #5: started
+2025/10/12-09:18:02.661 d1d Level-0 table #5: 87894 bytes OK
+2025/10/12-09:18:02.666 d1d Delete type=0 #3

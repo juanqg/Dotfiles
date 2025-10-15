@@ -1,0 +1,70 @@
+2025-10-04 20:40:09.089 [info] Started local extension host with pid 164459.
+2025-10-04 20:40:11.882 [error] CodeExpectedError
+    at lSt.j (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3677:60796)
+    at async lSt.m (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3677:60875)
+    at async lSt.readFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3677:65253)
+    at async xSt.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3682:9979)
+    at async xSt.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3682:9754)
+    at async wwe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1226:12360)
+    at async wwe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1226:10835)
+    at async CSt.W (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3682:6625)
+    at async _et.jb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1501:18709)
+    at async IDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2625:79952)
+2025-10-04 20:40:12.790 [error] [Extension Host] (node:164459) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-04 20:40:17.522 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-04 20:40:19.787 [info] [perf] Render performance baseline is 168ms
+2025-10-04 20:41:21.799 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-04 20:41:22.078 [info] Started local extension host with pid 166445.
+2025-10-04 20:41:24.490 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-04 20:41:25.112 [error] [Extension Host] (node:166445) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-04 20:41:26.325 [info] [perf] Render performance baseline is 74ms
+2025-10-04 20:42:41.069 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:42:46.599 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:42:47.114 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:42:48.782 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:43:07.550 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:43:08.653 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:43:08.934 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:43:09.152 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:43:19.801 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:44:46.467 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 20:58:06.403 [error] Cannot read properties of undefined (reading 'name'): TypeError: Cannot read properties of undefined (reading 'name')
+	at R.providePackageHover (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:18261)
+	at async Object.provideHover (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:15494)
+	at async ZP.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:131412)
+2025-10-04 21:05:04.181 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:05:08.497 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:05:14.363 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:05:14.638 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:05:14.967 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:05:15.256 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:58:21.859 [info] Started local extension host with pid 272676.
+2025-10-04 21:58:30.417 [error] [Extension Host] (node:272676) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-04 21:58:39.886 [info] Extension host (LocalProcess pid: 272676) is unresponsive.
+2025-10-04 21:58:42.543 [info] Extension host (LocalProcess pid: 272676) is responsive.
+2025-10-04 21:58:42.554 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-10-04 21:58:46.212 [info] Extension host (LocalProcess pid: 272676) is unresponsive.
+2025-10-04 21:58:46.711 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-10-04 21:58:47.878 [info] Extension host (LocalProcess pid: 272676) is responsive.
+2025-10-04 21:58:51.307 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:58:51.320 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:58:52.506 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:58:52.791 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:58:58.817 [info] Extension host (LocalProcess pid: 272676) is unresponsive.
+2025-10-04 21:59:03.825 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-10-04 21:59:03.951 [info] Extension host (LocalProcess pid: 272676) is responsive.
+2025-10-04 21:59:03.952 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-10-04 21:59:04.388 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 21:59:05.418 [warning] UNRESPONSIVE extension host: 'ms-vscode.cpptools' took 20.912305025996535% of 45.249ms, saved PROFILE here: 'file:///tmp/exthost-a4c6f5.cpuprofile'
+2025-10-04 22:00:46.390 [warning] [LM] No provider registered for vendor copilot
+2025-10-04 22:03:52.134 [info] Extension host (LocalProcess pid: 272676) is unresponsive.
+2025-10-04 22:03:52.433 [info] Extension host (LocalProcess pid: 272676) is responsive.
+2025-10-04 22:03:52.448 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-10-04 22:03:59.141 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-10-04 22:04:01.261 [info] Extension host (LocalProcess pid: 272676) is unresponsive.
+2025-10-04 22:04:01.347 [info] Extension host (LocalProcess pid: 272676) is responsive.
+2025-10-04 22:04:01.354 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-10-04 22:04:02.807 [info] UNRESPONSIVE extension host: starting to profile NOW

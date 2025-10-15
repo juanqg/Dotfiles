@@ -1,0 +1,18 @@
+Resolving esp32cam_ai_thinker dependencies...
+Library Manager: Installing prampec/IotWebConf @ ^3.2.1
+Downloading 0% 10% 20% 30% 40% 50% 60% 70%
+Unpacking 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Library Manager: IotWebConf@3.2.1 has been installed!
+Library Manager: Installing geeksville/Micro-RTSP @ ^0.1.6
+Unpacking 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Library Manager: Micro-RTSP@0.1.6 has been installed!
+Library Manager: Installing rzeldent/micro-moustache @ ^1.0.1
+Downloading 0% 10%
+Unpacking 0% 10% 20% 30% 40% 50% 60%
+Library Manager: micro-moustache@1.0.1 has been installed!
+Library Manager: Installing contrem/arduino-timer @ ^2.3.1
+Downloading 0% 10% 20%
+Unpacking 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Library Manager: arduino-timer@2.3.1 has been installed!
+Updating metadata for the vscode IDE...
+Project has been successfully updated!

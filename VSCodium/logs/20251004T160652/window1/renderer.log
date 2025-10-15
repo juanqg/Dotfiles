@@ -1,0 +1,7 @@
+2025-10-04 16:06:54.548 [info] Started local extension host with pid 4045314.
+2025-10-04 16:06:55.773 [error] Ignoring clangd.onConfigChanged.forceEnable as clangd.onConfigChanged is "prompt"
+2025-10-04 16:06:56.047 [error] Ignoring clangd.onConfigChanged.forceEnable as clangd.onConfigChanged is "prompt"
+2025-10-04 16:06:57.692 [error] [Extension Host] (node:4045314) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-04 16:06:58.357 [info] [perf] Render performance baseline is 129ms
+2025-10-04 16:06:59.476 [error] An unknown error occurred. Please consult the log for more details.

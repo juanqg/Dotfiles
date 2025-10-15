@@ -1,0 +1,9 @@
+I[16:00:04.674] clangd version 20.1.8
+I[16:00:04.675] Features: linux
+I[16:00:04.675] PID: 4036739
+I[16:00:04.675] Working directory: /home/juanqg
+I[16:00:04.675] argv[0]: /usr/bin/clangd
+I[16:00:04.675] Starting LSP over stdin/stdout
+I[16:00:04.676] <-- initialize(0)
+I[16:00:04.688] --> reply:initialize(0) 12 ms
+I[16:00:04.718] <-- initialized

@@ -1,0 +1,15 @@
+2025/10/14-08:16:59.220 d1b Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_homeassistant.kiko-uaru.ts.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/14-08:16:59.220 d1b Recovering log #34
+2025/10/14-08:16:59.226 d1b Reusing old log /home/juanqg/.config/chromium/Default/IndexedDB/https_homeassistant.kiko-uaru.ts.net_0.indexeddb.leveldb/000034.log 
+2025/10/14-09:55:24.099 d1d Level-0 table #39: started
+2025/10/14-09:55:24.105 d1d Level-0 table #39: 54458 bytes OK
+2025/10/14-09:55:24.109 d1d Delete type=0 #34
+2025/10/14-09:55:24.109 d1d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/14-09:55:24.109 d1d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01 \x03\x00\xd0\xf9t*\x9eyB\x00\x01>\x00b\x00r\x00a\x00n\x00d\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00b\x00r\x00a\x00n\x00d\x00s\x00.\x00h\x00o\x00m\x00e\x00-\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00.\x00i\x00o\x00/\x00h\x00o\x00m\x00e\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00/\x00i\x00c\x00o\x00n\x00.\x00p\x00n\x00g' @ 173205 : 1
+2025/10/14-09:55:24.109 d1d Compacting 1@1 + 1@2 files
+2025/10/14-09:55:24.154 d1d Generated table #40@1: 16083 keys, 1897815 bytes
+2025/10/14-09:55:24.154 d1d Compacted 1@1 + 1@2 files => 1897815 bytes
+2025/10/14-09:55:24.157 d1d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/14-09:55:24.158 d1d Delete type=2 #36
+2025/10/14-09:55:24.158 d1d Delete type=2 #39
+2025/10/14-09:55:24.158 d1d Manual compaction at level-1 from '\x00\x02\x01 \x03\x00\xd0\xf9t*\x9eyB\x00\x01>\x00b\x00r\x00a\x00n\x00d\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00b\x00r\x00a\x00n\x00d\x00s\x00.\x00h\x00o\x00m\x00e\x00-\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00.\x00i\x00o\x00/\x00h\x00o\x00m\x00e\x00a\x00s\x00s\x00i\x00s\x00t\x00a\x00n\x00t\x00/\x00i\x00c\x00o\x00n\x00.\x00p\x00n\x00g' @ 173205 : 1 .. (end); will stop at (end)

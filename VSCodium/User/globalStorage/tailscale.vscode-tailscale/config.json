@@ -1,0 +1,8 @@
+{
+  "hosts": {
+    "t430.kiko-uaru.ts.net": {
+      "user": "root",
+      "rootDir": "/"
+    }
+  }
+}

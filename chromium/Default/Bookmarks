@@ -1,0 +1,47 @@
+{
+   "checksum": "706e8cfb617e826e966b97c297da1327",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13404667543120094",
+            "date_last_used": "13404667563819658",
+            "guid": "8f3932d6-a63e-4bf9-8f73-90275169676a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Servers Board",
+            "type": "url",
+            "url": "http://openwrt-1.kiko-uaru.ts.net:7575/"
+         } ],
+         "date_added": "13404660593796480",
+         "date_last_used": "0",
+         "date_modified": "13404667552454169",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13404660593796480",
+         "date_last_used": "0",
+         "date_modified": "13404667543120094",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13404660593796480",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

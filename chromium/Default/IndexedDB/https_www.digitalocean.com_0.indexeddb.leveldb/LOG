@@ -1,0 +1,10 @@
+2025/10/07-20:41:46.208 16aadc Creating DB /home/juanqg/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb since it was missing.
+2025/10/07-20:41:46.217 16aadc Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/07-20:41:46.249 16aae0 Level-0 table #5: started
+2025/10/07-20:41:46.250 16aae0 Level-0 table #5: 1775 bytes OK
+2025/10/07-20:41:46.259 16aae0 Delete type=0 #3
+2025/10/07-20:41:46.259 16aae0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/07-20:41:46.279 16aae0 Level-0 table #7: started
+2025/10/07-20:41:46.283 16aae0 Level-0 table #7: 1577 bytes OK
+2025/10/07-20:41:46.287 16aae0 Delete type=0 #4
+2025/10/07-20:41:46.289 16aadc Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,18 @@
+2025-10-04 20:35:34.736 [info] Extension host with pid 157319 started
+2025-10-04 20:35:34.736 [info] Skipping acquiring lock for /home/juanqg/.config/Code/User/workspaceStorage/c73e8d611061d21b773df1da3b0eaea2.
+2025-10-04 20:35:35.587 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 20:35:35.787 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 20:35:36.159 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-04 20:35:36.359 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-04 20:35:36.364 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: true, activationEvent: '*'
+2025-10-04 20:35:36.938 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-04 20:35:37.229 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-04 20:35:37.914 [info] Eager extensions activated
+2025-10-04 20:35:37.999 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:35:38.010 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:35:38.071 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:36:11.815 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-containers, startup: false, activationEvent: 'onLanguage:dockercompose'
+2025-10-04 20:37:39.700 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'workspaceContains:**/platformio.ini', root cause: platformio.platformio-ide
+2025-10-04 20:37:41.310 [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: 'workspaceContains:**/platformio.ini'
+2025-10-04 20:39:32.934 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-04 20:39:33.308 [info] Extension host with pid 157319 exiting with code 0

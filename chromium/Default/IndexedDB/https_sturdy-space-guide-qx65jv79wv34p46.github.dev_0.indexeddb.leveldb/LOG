@@ -1,0 +1,6 @@
+2025/10/12-09:17:41.152 d1b Creating DB /home/juanqg/.config/chromium/Default/IndexedDB/https_sturdy-space-guide-qx65jv79wv34p46.github.dev_0.indexeddb.leveldb since it was missing.
+2025/10/12-09:17:41.161 d1b Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_sturdy-space-guide-qx65jv79wv34p46.github.dev_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/12-09:18:31.963 d1d Level-0 table #5: started
+2025/10/12-09:18:31.969 d1d Level-0 table #5: 181475 bytes OK
+2025/10/12-09:18:31.976 d1d Delete type=0 #3
+2025/10/12-09:18:31.976 d1d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

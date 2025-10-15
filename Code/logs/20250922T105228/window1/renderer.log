@@ -1,0 +1,88 @@
+2025-09-22 10:52:30.156 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 10:52:30.157 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-09-22 10:52:30.306 [info] Started local extension host with pid 2826066.
+2025-09-22 10:52:31.098 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-09-22 10:52:32.306 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 10:52:32.533 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-09-22 10:52:33.597 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 10:52:33.880 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-09-22 10:52:35.577 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 10:52:35.760 [info] [perf] Render performance baseline is 45ms
+2025-09-22 10:58:38.371 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 10:58:39.832 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 10:59:01.018 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 12:52:59.428 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-09-22 13:18:13.836 [error] [Extension Host] (node:2826066) [DEP0047] DeprecationWarning: The `util.isDate` API is deprecated.  Please use `arg instanceof Date` instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-09-22 13:18:13.973 [error] Watch not supported: Error: Watch not supported
+	at t.FileSystemProviderSFTP.watch (/home/juanqg/.vscode/extensions/tailscale.vscode-tailscale-1.0.0/dist/extension.js:2:311772)
+	at t.WithFSTiming.watch (/home/juanqg/.vscode/extensions/tailscale.vscode-tailscale-1.0.0/dist/extension.js:2:312428)
+	at o5.$watch (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:116808)
+	at j4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120180)
+	at j4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119960)
+	at j4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119049)
+	at j4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118154)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116951)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:8617)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6909)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-22 13:29:45.345 [error] Watch not supported: Error: Watch not supported
+	at t.FileSystemProviderSFTP.watch (/home/juanqg/.vscode/extensions/tailscale.vscode-tailscale-1.0.0/dist/extension.js:2:311772)
+	at t.WithFSTiming.watch (/home/juanqg/.vscode/extensions/tailscale.vscode-tailscale-1.0.0/dist/extension.js:2:312428)
+	at o5.$watch (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:116808)
+	at j4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120180)
+	at j4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119960)
+	at j4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119049)
+	at j4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118154)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116951)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:8617)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6909)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-22 13:29:47.426 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-22 13:31:23.354 [error] Watch not supported: Error: Watch not supported
+	at t.FileSystemProviderSFTP.watch (/home/juanqg/.vscode/extensions/tailscale.vscode-tailscale-1.0.0/dist/extension.js:2:311772)
+	at t.WithFSTiming.watch (/home/juanqg/.vscode/extensions/tailscale.vscode-tailscale-1.0.0/dist/extension.js:2:312428)
+	at o5.$watch (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:116808)
+	at j4.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120180)
+	at j4.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119960)
+	at j4.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119049)
+	at j4.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118154)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116951)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at od.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:8617)
+	at $.C (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2373)
+	at $.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2591)
+	at vo.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9458)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6909)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-09-23 08:37:24.902 [error] Cancelled: Canceled: Canceled
+    at BJe.O (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:36522)
+    at async BJe.N (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:35251)
+    at async BJe.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:24251)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:23722
+    at async Promise.all (index 0)
+    at async BJe.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:23673)
+    at async BJe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1266:22330)
+    at async ndt.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2405:15150)
+    at async zGs.Rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2401:17026)
+    at async zGs.$c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2401:19670)
+2025-09-23 08:37:31.644 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-23 08:37:36.137 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-23 08:37:40.895 [error] [Extension Host] (node:2826066) [DEP0051] DeprecationWarning: The `util.isNullOrUndefined` API is deprecated. Please use `arg === null || arg === undefined` instead.

@@ -1,0 +1,26 @@
+2025-10-04 16:06:27.697 [info] Extension host with pid 4044588 started
+2025-10-04 16:06:27.697 [info] Skipping acquiring lock for /home/juanqg/.config/VSCodium/User/workspaceStorage/4c1ab6125ebc4b30106244aa5ca8d5eb.
+2025-10-04 16:06:27.989 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-04 16:06:28.002 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: true, activationEvent: '*'
+2025-10-04 16:06:28.288 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-04 16:06:28.496 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-04 16:06:28.677 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: true, activationEvent: 'workspaceContains:**/platformio.ini', root cause: DavidGomes.platformio-ide-cursor
+2025-10-04 16:06:29.341 [info] ExtensionService#_doActivateExtension DavidGomes.platformio-ide-cursor, startup: true, activationEvent: 'workspaceContains:**/platformio.ini'
+2025-10-04 16:06:30.122 [info] Eager extensions activated
+2025-10-04 16:06:30.277 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 16:06:30.284 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 16:06:30.339 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 16:06:30.596 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 16:06:31.125 [error] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at p (/home/juanqg/.vscode-oss/extensions/davidgomes.platformio-ide-cursor-0.0.1-universal/dist/extension.js:1:1544)
+	at Object.patchOSEnviron (/home/juanqg/.vscode-oss/extensions/davidgomes.platformio-ide-cursor-0.0.1-universal/dist/extension.js:1:43788)
+	at Object.activate (/home/juanqg/.vscode-oss/extensions/davidgomes.platformio-ide-cursor-0.0.1-universal/dist/extension.js:1:39933)
+	at F (/home/juanqg/.vscode-oss/extensions/davidgomes.platformio-ide-cursor-0.0.1-universal/dist/extension.js:1:47434)
+	at ky._callActivateOptional (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:18824)
+	at ky._callActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:18531)
+	at file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:16465
+	at async Vw._activate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16269)
+	at async Vw._waitForDepsThenActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16211)
+	at async Vw._initialize (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:15574)
+2025-10-04 16:06:44.176 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-04 16:06:44.203 [info] Extension host with pid 4044588 exiting with code 0

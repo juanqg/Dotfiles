@@ -1,0 +1,14 @@
+2025-10-04 20:40:07.199 [info] update#setState idle
+2025-10-04 20:40:37.201 [info] update#setState checking for updates
+2025-10-04 20:40:37.336 [info] update#setState available for download
+2025-10-04 20:41:20.503 [info] Extension host with pid 164459 exited with code: 0, signal: unknown.
+2025-10-04 20:55:50.377 [warning] No ptyHost heartbeat after 6 seconds
+2025-10-04 21:58:21.438 [info] Extension host with pid 166445 exited with code: 0, signal: unknown.
+2025-10-04 21:58:23.687 [error] Extension host with pid 166445 still exists, forcefully killing it...
+2025-10-04 22:00:30.582 [warning] No ptyHost heartbeat after 6 seconds
+2025-10-04 22:02:17.993 [warning] No ptyHost heartbeat after 6 seconds
+2025-10-04 22:02:24.315 [warning] No ptyHost heartbeat after 6 seconds
+2025-10-04 22:02:44.694 [warning] No ptyHost heartbeat after 6 seconds
+2025-10-04 22:03:17.000 [warning] No ptyHost heartbeat after 6 seconds
+2025-10-04 22:03:23.549 [warning] No ptyHost heartbeat after 6 seconds
+2025-10-04 22:03:36.955 [warning] No ptyHost heartbeat after 6 seconds

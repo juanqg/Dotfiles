@@ -1,0 +1,6 @@
+2025/10/13-19:17:32.948 d2c Creating DB /home/juanqg/.config/chromium/Default/IndexedDB/https_www.iplocation.net_0.indexeddb.leveldb since it was missing.
+2025/10/13-19:17:32.953 d2c Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_www.iplocation.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/13-19:17:58.108 d1d Level-0 table #5: started
+2025/10/13-19:17:58.110 d1d Level-0 table #5: 1070 bytes OK
+2025/10/13-19:17:58.119 d1d Delete type=0 #3
+2025/10/13-19:17:58.119 d1d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

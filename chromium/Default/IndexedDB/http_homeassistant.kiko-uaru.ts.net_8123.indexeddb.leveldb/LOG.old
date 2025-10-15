@@ -1,0 +1,6 @@
+2025/09/17-08:12:58.205 d671 Creating DB /home/juanqg/.config/chromium/Default/IndexedDB/http_homeassistant.kiko-uaru.ts.net_8123.indexeddb.leveldb since it was missing.
+2025/09/17-08:12:58.211 d671 Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/http_homeassistant.kiko-uaru.ts.net_8123.indexeddb.leveldb/MANIFEST-000001
+2025/09/17-08:13:07.772 d671 Level-0 table #5: started
+2025/09/17-08:13:07.851 d671 Level-0 table #5: 528160 bytes OK
+2025/09/17-08:13:07.858 d671 Delete type=0 #3
+2025/09/17-08:13:07.859 d671 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

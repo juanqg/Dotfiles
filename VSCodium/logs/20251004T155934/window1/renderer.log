@@ -1,0 +1,13 @@
+2025-10-04 15:59:37.522 [info] Started local extension host with pid 4036067.
+2025-10-04 15:59:41.150 [info] [perf] Render performance baseline is 50ms
+2025-10-04 16:00:03.415 [error] Ignoring clangd.onConfigChanged.forceEnable as clangd.onConfigChanged is "prompt"
+2025-10-04 16:00:04.238 [error] [Extension Host] (node:4036067) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-04 16:00:05.555 [error] An unknown error occurred. Please consult the log for more details.
+2025-10-04 16:01:39.349 [info] Started local extension host with pid 4038896.
+2025-10-04 16:01:39.549 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-04 16:01:42.142 [info] [perf] Render performance baseline is 47ms
+2025-10-04 16:01:43.264 [error] Ignoring clangd.onConfigChanged.forceEnable as clangd.onConfigChanged is "prompt"
+2025-10-04 16:01:43.979 [error] [Extension Host] (node:4038896) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-10-04 16:01:45.543 [error] An unknown error occurred. Please consult the log for more details.

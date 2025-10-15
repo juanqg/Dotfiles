@@ -1,0 +1,6 @@
+2025/09/15-14:30:51.748 8e1df Creating DB /home/juanqg/.config/chromium/Default/IndexedDB/https_demo.home-assistant.io_0.indexeddb.leveldb since it was missing.
+2025/09/15-14:30:51.756 8e1df Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_demo.home-assistant.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/15-14:30:56.686 8e1e0 Level-0 table #5: started
+2025/09/15-14:30:56.776 8e1e0 Level-0 table #5: 1123133 bytes OK
+2025/09/15-14:30:56.785 8e1e0 Delete type=0 #3
+2025/09/15-14:30:56.786 8e1e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

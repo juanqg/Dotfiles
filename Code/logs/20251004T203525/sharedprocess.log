@@ -1,0 +1,19 @@
+2025-10-04 20:37:23.524 [info] Getting Manifest... platformio.platformio-ide
+2025-10-04 20:37:23.667 [info] Installing extension: platformio.platformio-ide {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanqg/.vscode/extensions/extensions.json","path":"/home/juanqg/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.2","date":"2025-09-24T11:21:37.073Z"}}
+2025-10-04 20:37:24.154 [info] Getting Manifest... ms-vscode.cpptools
+2025-10-04 20:37:24.343 [info] Installing extension: ms-vscode.cpptools {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanqg/.vscode/extensions/extensions.json","path":"/home/juanqg/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.2","date":"2025-09-24T11:21:37.073Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-10-04 20:37:27.119 [info] Extension signature verification result for platformio.platformio-ide: Success. Internal Code: 0. Executed: true. Duration: 2031ms.
+2025-10-04 20:37:31.535 [info] Extracted extension to file:///home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64: platformio.platformio-ide
+2025-10-04 20:37:31.805 [info] Renamed to /home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64
+2025-10-04 20:37:32.010 [info] Extension signature verification result for ms-vscode.cpptools: Success. Internal Code: 0. Executed: true. Duration: 4255ms.
+2025-10-04 20:37:38.790 [info] Extracted extension to file:///home/juanqg/.vscode/extensions/ms-vscode.cpptools-1.27.7-linux-x64: ms-vscode.cpptools
+2025-10-04 20:37:38.845 [info] Renamed to /home/juanqg/.vscode/extensions/ms-vscode.cpptools-1.27.7-linux-x64
+2025-10-04 20:37:38.931 [info] Extension installed successfully: platformio.platformio-ide vscode-userdata:/home/juanqg/.vscode/extensions/extensions.json
+2025-10-04 20:37:38.932 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/juanqg/.vscode/extensions/extensions.json
+2025-10-04 20:37:44.341 [info] Getting Manifest... ms-vscode.cpptools
+2025-10-04 20:37:44.421 [info] Installing extension: ms-vscode.cpptools {"installPreReleaseVersion":true,"context":{"extensionInstallSource":"command"},"pinned":false,"productVersion":{"version":"1.104.3","date":"2025-10-02T12:29:27.803Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/juanqg/.vscode/extensions/extensions.json","path":"/home/juanqg/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-10-04 20:37:53.047 [info] Extension signature verification result for ms-vscode.cpptools: Success. Internal Code: 0. Executed: true. Duration: 4560ms.
+2025-10-04 20:38:14.479 [info] Extracted extension to file:///home/juanqg/.vscode/extensions/ms-vscode.cpptools-1.28.0-linux-x64: ms-vscode.cpptools
+2025-10-04 20:38:14.557 [info] Renamed to /home/juanqg/.vscode/extensions/ms-vscode.cpptools-1.28.0-linux-x64
+2025-10-04 20:38:14.817 [info] Marked extension as removed ms-vscode.cpptools-1.27.7-linux-x64
+2025-10-04 20:38:14.881 [info] Extension installed successfully: ms-vscode.cpptools vscode-userdata:/home/juanqg/.vscode/extensions/extensions.json

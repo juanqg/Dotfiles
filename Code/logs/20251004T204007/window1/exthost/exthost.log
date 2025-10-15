@@ -1,0 +1,95 @@
+2025-10-04 20:40:11.366 [info] Extension host with pid 164459 started
+2025-10-04 20:40:11.366 [info] Skipping acquiring lock for /home/juanqg/.config/Code/User/workspaceStorage/c73e8d611061d21b773df1da3b0eaea2.
+2025-10-04 20:40:12.077 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 20:40:12.177 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 20:40:12.237 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onView:platformio-ide.quickAccess', root cause: platformio.platformio-ide
+2025-10-04 20:40:13.653 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-04 20:40:13.665 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: true, activationEvent: '*'
+2025-10-04 20:40:14.035 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-04 20:40:14.219 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-04 20:40:16.744 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-04 20:40:17.007 [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: 'onView:platformio-ide.quickAccess'
+2025-10-04 20:40:17.563 [info] Eager extensions activated
+2025-10-04 20:40:17.601 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:40:17.607 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:40:17.658 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:41:20.350 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-04 20:41:20.494 [info] Extension host with pid 164459 exiting with code 0
+2025-10-04 20:41:23.329 [info] Extension host with pid 166445 started
+2025-10-04 20:41:23.329 [info] Skipping acquiring lock for /home/juanqg/.config/Code/User/workspaceStorage/4c1ab6125ebc4b30106244aa5ca8d5eb.
+2025-10-04 20:41:23.423 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 20:41:23.500 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 20:41:23.641 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-10-04 20:41:23.647 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: true, activationEvent: '*'
+2025-10-04 20:41:23.930 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-10-04 20:41:24.172 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-10-04 20:41:24.525 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: 'workspaceContains:**/platformio.ini', root cause: platformio.platformio-ide
+2025-10-04 20:41:26.268 [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: true, activationEvent: 'workspaceContains:**/platformio.ini'
+2025-10-04 20:41:26.514 [info] Eager extensions activated
+2025-10-04 20:41:26.534 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:41:26.542 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:41:26.587 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 20:44:00.000 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2025-10-04 20:44:00.005 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2025-10-04 20:44:00.014 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2025-10-04 20:44:00.025 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+2025-10-04 20:44:00.145 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onTaskType:typescript'
+2025-10-04 20:44:00.351 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-containers, startup: false, activationEvent: 'onTaskType:docker-build'
+2025-10-04 20:44:11.445 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-04 20:58:05.694 [error] Error: command 'platformio-ide.build' not found
+    at gJe.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1251:3892)
+    at gJe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1251:3824) platformio-ide.runToolbarButtonCommand {"value":"platformio.platformio-ide","_lower":"platformio.platformio-ide"}
+2025-10-04 20:58:05.696 [error] Error: command 'platformio-ide.build' not found
+    at gJe.n (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1251:3892)
+    at gJe.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1251:3824) platformio-ide.runToolbarButtonCommand undefined
+2025-10-04 20:58:06.361 [error] [platformio.platformio-ide] provider FAILED
+2025-10-04 20:58:06.387 [error] TypeError: Cannot read properties of undefined (reading 'name')
+	at R.providePackageHover (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:18261)
+	at async Object.provideHover (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:15494)
+	at async ZP.provideHover (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:131412)
+2025-10-04 21:58:20.751 [info] Extension host terminating: renderer closed the MessagePort
+2025-10-04 21:58:21.152 [error] An error occurred when deactivating the extension 'platformio.platformio-ide':
+2025-10-04 21:58:21.152 [error] TypeError: this.disposeInternals is not a function
+	at U.dispose (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:34826)
+	at h (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:826)
+	at Object.disposeLocalSubscriptions (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:47293)
+	at Object.deactivate (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:47333)
+	at Module.V (/home/juanqg/.vscode/extensions/platformio.platformio-ide-3.3.4-linux-x64/dist/extension.js:1:47415)
+	at aJ.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:11836)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9986
+	at Array.map (<anonymous>)
+	at aJ.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9974)
+	at aJ.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10217)
+	at RP.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+	at bs (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:10410)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:391:6949)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-10-04 21:58:21.432 [info] Extension host with pid 166445 exiting with code 0
+2025-10-04 21:58:26.270 [info] Extension host with pid 272676 started
+2025-10-04 21:58:26.270 [info] Skipping acquiring lock for /home/juanqg/.config/Code/User/workspaceStorage/b667426afb4b3d1396d8868f4f86fec6.
+2025-10-04 21:58:26.304 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-10-04 21:58:26.853 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-10-04 21:58:27.006 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-04 21:58:28.235 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onCommand:platformio-ide.showHome', root cause: platformio.platformio-ide
+2025-10-04 21:58:30.042 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2025-10-04 21:58:30.062 [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+2025-10-04 21:58:30.095 [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+2025-10-04 21:58:30.160 [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+2025-10-04 21:58:30.182 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+2025-10-04 21:58:30.311 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onTaskType:typescript'
+2025-10-04 21:58:30.619 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-containers, startup: false, activationEvent: 'onTaskType:docker-build'
+2025-10-04 21:58:31.784 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: false, activationEvent: '*'
+2025-10-04 21:58:31.915 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-04 21:58:31.938 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-04 21:58:32.049 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-10-04 21:58:33.295 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2025-10-04 21:58:33.505 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-10-04 21:58:42.618 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 21:58:42.623 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 21:58:43.810 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-10-04 21:58:47.760 [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: 'onCommand:platformio-ide.showHome'
+2025-10-04 21:58:49.225 [info] Eager extensions activated
+2025-10-04 22:01:17.241 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-10-04 22:01:29.292 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

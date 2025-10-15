@@ -1,0 +1,31 @@
+2025-10-04 20:35:36.747 [info] [tsrelay] url: http://127.0.0.1:43241
+2025-10-04 20:35:36.793 [info] websocket is open
+2025-10-04 20:35:36.843 [info] [tsrelay] initial ports are set
+2025-10-04 20:35:36.870 [info] [serve-status] Funnel is off
+2025-10-04 20:35:36.871 [info] [serve-status] HTTPS is off
+2025-10-04 20:35:54.833 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg/jellyfin/compose.yaml
+2025-10-04 20:35:54.837 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg/jellyfin/compose.yaml
+2025-10-04 20:36:14.834 [error] [ssh-conn-manager] Failed to connect to docker.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:36:14.835 [error] [tsFs-sftp] readFile: Error: Timed out while waiting for handshake
+2025-10-04 20:36:14.859 [error] [ssh-conn-manager] Failed to connect to docker.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:36:14.862 [error] [tsFs-sftp] stat: Error: Timed out while waiting for handshake
+2025-10-04 20:36:22.238 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-10-04 20:36:22.240 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-10-04 20:36:42.300 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:36:42.300 [error] [tsFs-sftp] readFile: Error: Timed out while waiting for handshake
+2025-10-04 20:36:42.301 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:36:42.301 [error] [tsFs-sftp] stat: Error: Timed out while waiting for handshake
+2025-10-04 20:36:42.321 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-10-04 20:36:42.368 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-10-04 20:36:42.369 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-10-04 20:36:47.388 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:36:47.389 [error] error expanding PeerTree: Error: Timed out while waiting for handshake
+2025-10-04 20:37:02.320 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:37:02.320 [error] [tsFs-sftp] stat: Error: Timed out while waiting for handshake
+2025-10-04 20:37:02.368 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:37:02.368 [error] [tsFs-sftp] readFile: Error: Timed out while waiting for handshake
+2025-10-04 20:37:02.370 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 20:37:02.370 [error] [tsFs-sftp] stat: Error: Timed out while waiting for handshake
+2025-10-04 20:39:33.167 [info] shutting down tsrelay
+2025-10-04 20:39:33.220 [warning] [tsrelay] child process exited with code null
+2025-10-04 20:39:33.241 [info] websocket is closed

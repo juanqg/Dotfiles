@@ -1,0 +1,6 @@
+2025/09/29-12:24:54.834 1043a Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/29-12:24:54.836 1043a Recovering log #15
+2025/09/29-12:24:54.837 1043a Reusing old log /home/juanqg/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000015.log 
+2025/09/29-12:25:27.350 1043c Level-0 table #20: started
+2025/09/29-12:25:27.409 1043c Level-0 table #20: 3206549 bytes OK
+2025/09/29-12:25:27.419 1043c Delete type=0 #15

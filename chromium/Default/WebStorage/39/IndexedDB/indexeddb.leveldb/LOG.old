@@ -1,0 +1,6 @@
+2025/09/20-22:00:35.062 27fea Creating DB /home/juanqg/.config/chromium/Default/WebStorage/39/IndexedDB/indexeddb.leveldb since it was missing.
+2025/09/20-22:00:35.068 27fea Reusing MANIFEST /home/juanqg/.config/chromium/Default/WebStorage/39/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/09/20-22:01:04.327 27fea Level-0 table #5: started
+2025/09/20-22:01:04.331 27fea Level-0 table #5: 460 bytes OK
+2025/09/20-22:01:04.336 27fea Delete type=0 #3
+2025/09/20-22:01:04.337 27fea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

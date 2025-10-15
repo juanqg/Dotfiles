@@ -1,0 +1,141 @@
+2025-09-22 10:52:32.268 [info] [tsrelay] url: http://127.0.0.1:41921
+2025-09-22 10:52:32.269 [info] websocket is open
+2025-09-22 10:52:32.269 [info] [serve-status] Funnel is off
+2025-09-22 10:52:32.269 [info] [serve-status] HTTPS is off
+2025-09-22 10:52:32.269 [info] [tsrelay] initial ports are set
+2025-09-22 10:52:57.564 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-09-22 10:52:57.570 [error] error expanding PeerTree: Error: Timed out while waiting for handshake
+2025-09-22 10:53:00.580 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/~
+2025-09-22 10:53:20.584 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-09-22 10:53:20.585 [error] [tsFs-sftp] readDirectory: Error: Timed out while waiting for handshake
+2025-09-22 10:58:37.807 [info] terminal opened
+2025-09-22 10:58:38.736 [info] pid is 2832791
+2025-09-22 10:58:38.736 [info] pid sent
+2025-09-22 10:59:19.900 [info] [tsFs-timing] 73ms for getHomeDirectory
+2025-09-22 10:59:19.902 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 10:59:20.031 [info] [tsFs-timing] 129ms for readDirectory
+2025-09-22 12:04:37.525 [info] [tsFs-timing] 36ms for getHomeDirectory
+2025-09-22 12:04:37.530 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 12:04:37.570 [info] [tsFs-timing] 40ms for readDirectory
+2025-09-22 12:07:47.951 [info] [tsFs-timing] 35ms for getHomeDirectory
+2025-09-22 12:07:47.956 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 12:07:47.995 [info] [tsFs-timing] 39ms for readDirectory
+2025-09-22 12:22:54.990 [info] [tsFs-timing] 35ms for getHomeDirectory
+2025-09-22 12:22:54.993 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 12:22:55.035 [info] [tsFs-timing] 42ms for readDirectory
+2025-09-22 12:35:41.625 [info] [tsFs-timing] 35ms for getHomeDirectory
+2025-09-22 12:35:41.629 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 12:35:41.671 [info] [tsFs-timing] 43ms for readDirectory
+2025-09-22 13:17:22.432 [info] [tsFs-timing] 39ms for getHomeDirectory
+2025-09-22 13:17:23.837 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 13:17:23.879 [info] [tsFs-timing] 43ms for readDirectory
+2025-09-22 13:17:29.428 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich
+2025-09-22 13:17:29.465 [info] [tsFs-timing] 38ms for readDirectory
+2025-09-22 13:17:48.516 [info] terminal opened
+2025-09-22 13:17:48.826 [info] pid is 2985995
+2025-09-22 13:17:48.826 [info] pid sent
+2025-09-22 13:18:12.255 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich
+2025-09-22 13:18:12.300 [info] [tsFs-timing] 45ms for readDirectory
+2025-09-22 13:18:13.793 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:18:13.794 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:18:13.826 [info] [tsFs-timing] 32ms for stat
+2025-09-22 13:18:13.838 [info] [tsFs-timing] 45ms for readFile
+2025-09-22 13:18:28.401 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:18:28.438 [info] [tsFs-timing] 37ms for stat
+2025-09-22 13:21:16.765 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:21:16.796 [info] [tsFs-timing] 31ms for stat
+2025-09-22 13:21:16.797 [info] [tsFs-sftp] writeFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:21:16.825 [info] [tsFs-timing] 28ms for writeFile
+2025-09-22 13:21:16.826 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:21:16.851 [info] [tsFs-timing] 25ms for stat
+2025-09-22 13:24:56.210 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:24:56.243 [info] [tsFs-timing] 33ms for stat
+2025-09-22 13:25:48.939 [info] [tsFs-timing] 40ms for getHomeDirectory
+2025-09-22 13:25:50.337 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net
+2025-09-22 13:25:50.388 [info] [tsFs-timing] 52ms for readDirectory
+2025-09-22 13:25:54.963 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt
+2025-09-22 13:25:55.001 [info] [tsFs-timing] 38ms for readDirectory
+2025-09-22 13:25:56.597 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd
+2025-09-22 13:25:56.633 [info] [tsFs-timing] 36ms for readDirectory
+2025-09-22 13:25:58.706 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata
+2025-09-22 13:25:58.755 [info] [tsFs-timing] 49ms for readDirectory
+2025-09-22 13:26:00.765 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich
+2025-09-22 13:26:00.814 [info] [tsFs-timing] 50ms for readDirectory
+2025-09-22 13:26:59.374 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:26:59.408 [info] [tsFs-timing] 35ms for stat
+2025-09-22 13:27:02.716 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config
+2025-09-22 13:27:02.760 [info] [tsFs-timing] 44ms for readDirectory
+2025-09-22 13:27:16.469 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config
+2025-09-22 13:27:16.509 [info] [tsFs-timing] 40ms for stat
+2025-09-22 13:27:16.509 [info] [tsFs-sftp] writeFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config/immich.json
+2025-09-22 13:27:22.767 [info] [tsFs-timing] 42ms for getHomeDirectory
+2025-09-22 13:27:22.772 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net
+2025-09-22 13:27:22.839 [info] [tsFs-timing] 68ms for readDirectory
+2025-09-22 13:27:22.880 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt
+2025-09-22 13:27:22.920 [info] [tsFs-timing] 41ms for readDirectory
+2025-09-22 13:27:22.942 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd
+2025-09-22 13:27:22.986 [info] [tsFs-timing] 44ms for readDirectory
+2025-09-22 13:27:23.030 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata
+2025-09-22 13:27:23.068 [info] [tsFs-timing] 38ms for readDirectory
+2025-09-22 13:27:23.077 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich
+2025-09-22 13:27:23.112 [info] [tsFs-timing] 35ms for readDirectory
+2025-09-22 13:27:23.115 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config
+2025-09-22 13:27:23.149 [info] [tsFs-timing] 34ms for readDirectory
+2025-09-22 13:28:19.474 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:28:19.510 [info] [tsFs-timing] 37ms for stat
+2025-09-22 13:28:24.818 [info] terminal opened
+2025-09-22 13:28:25.006 [info] pid is 2999165
+2025-09-22 13:28:25.006 [info] pid sent
+2025-09-22 13:29:43.678 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config
+2025-09-22 13:29:43.734 [info] [tsFs-timing] 56ms for readDirectory
+2025-09-22 13:29:45.050 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config/immich.json
+2025-09-22 13:29:45.051 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config/immich.json
+2025-09-22 13:29:45.091 [info] [tsFs-timing] 41ms for readFile
+2025-09-22 13:29:45.092 [info] [tsFs-timing] 41ms for stat
+2025-09-22 13:30:40.815 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config/immich.json
+2025-09-22 13:30:40.848 [info] [tsFs-timing] 33ms for stat
+2025-09-22 13:31:10.601 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config/immich.json
+2025-09-22 13:31:10.641 [info] [tsFs-timing] 40ms for stat
+2025-09-22 13:31:19.023 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home
+2025-09-22 13:31:19.075 [info] [tsFs-timing] 53ms for readDirectory
+2025-09-22 13:31:20.092 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 13:31:20.154 [info] [tsFs-timing] 62ms for readDirectory
+2025-09-22 13:31:22.058 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich
+2025-09-22 13:31:22.105 [info] [tsFs-timing] 47ms for readDirectory
+2025-09-22 13:31:23.296 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:31:23.329 [info] [tsFs-timing] 33ms for stat
+2025-09-22 13:33:37.316 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:33:37.353 [info] [tsFs-timing] 38ms for stat
+2025-09-22 13:33:37.356 [info] [tsFs-sftp] writeFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:33:37.391 [info] [tsFs-timing] 35ms for writeFile
+2025-09-22 13:33:37.394 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:33:37.423 [info] [tsFs-timing] 30ms for stat
+2025-09-22 13:39:50.352 [info] [tsFs-timing] 56ms for getHomeDirectory
+2025-09-22 13:39:50.355 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net
+2025-09-22 13:39:50.453 [info] [tsFs-timing] 97ms for readDirectory
+2025-09-22 13:39:50.461 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home
+2025-09-22 13:39:50.516 [info] [tsFs-timing] 56ms for readDirectory
+2025-09-22 13:39:50.519 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt
+2025-09-22 13:39:50.587 [info] [tsFs-timing] 69ms for readDirectory
+2025-09-22 13:39:50.592 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-22 13:39:50.657 [info] [tsFs-timing] 65ms for readDirectory
+2025-09-22 13:39:50.660 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd
+2025-09-22 13:39:50.716 [info] [tsFs-timing] 57ms for readDirectory
+2025-09-22 13:39:50.723 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich
+2025-09-22 13:39:50.798 [info] [tsFs-timing] 76ms for readDirectory
+2025-09-22 13:39:50.800 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata
+2025-09-22 13:39:50.865 [info] [tsFs-timing] 65ms for readDirectory
+2025-09-22 13:39:50.872 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich
+2025-09-22 13:39:50.942 [info] [tsFs-timing] 70ms for readDirectory
+2025-09-22 13:39:50.947 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/mnt/ssd/appdata/immich/ts-config
+2025-09-22 13:39:51.012 [info] [tsFs-timing] 65ms for readDirectory
+2025-09-22 13:40:19.539 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:40:19.599 [info] [tsFs-timing] 60ms for stat
+2025-09-22 13:40:59.327 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:40:59.367 [info] [tsFs-timing] 40ms for stat
+2025-09-22 13:42:05.278 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 13:42:05.312 [info] [tsFs-timing] 35ms for stat
+2025-09-22 14:02:16.434 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-22 14:02:16.479 [info] [tsFs-timing] 45ms for stat
+2025-09-23 08:37:14.907 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/immich/compose.yaml
+2025-09-23 08:37:15.245 [info] [tsFs-timing] 348ms for stat

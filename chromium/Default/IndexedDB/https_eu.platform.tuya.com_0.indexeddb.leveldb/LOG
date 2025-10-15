@@ -1,0 +1,6 @@
+2025/09/23-20:34:26.573 286a Creating DB /home/juanqg/.config/chromium/Default/IndexedDB/https_eu.platform.tuya.com_0.indexeddb.leveldb since it was missing.
+2025/09/23-20:34:26.579 286a Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_eu.platform.tuya.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/23-20:35:03.512 2868 Level-0 table #5: started
+2025/09/23-20:35:03.531 2868 Level-0 table #5: 50555 bytes OK
+2025/09/23-20:35:03.541 2868 Delete type=0 #3
+2025/09/23-20:35:03.542 2868 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

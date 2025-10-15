@@ -1,0 +1,4 @@
+2025-10-04 15:59:41.017 [info] Log level: Info
+2025-10-04 16:01:41.215 [info] Log level: Info
+2025-10-04 16:01:44.846 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-10-04 16:05:12.643 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for rzeldent/esp32cam-ready: Error: No GitHub authentication session available.

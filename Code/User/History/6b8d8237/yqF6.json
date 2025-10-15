@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "/home/juanqg/esp32cam/esp32cam-ready"
+		},
+		{
+			"name": "esp32cam-rtsp",
+			"path": "/home/juanqg/esp32cam-rtsp"
+		}
+	],
+	"settings": {}
+}

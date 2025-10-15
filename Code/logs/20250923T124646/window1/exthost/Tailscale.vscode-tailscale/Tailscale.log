@@ -1,0 +1,109 @@
+2025-09-23 12:46:49.791 [info] [tsrelay] url: http://127.0.0.1:41899
+2025-09-23 12:46:49.791 [info] websocket is open
+2025-09-23 12:46:49.791 [info] [serve-status] Funnel is off
+2025-09-23 12:46:49.791 [info] [serve-status] HTTPS is off
+2025-09-23 12:46:49.791 [info] [tsrelay] initial ports are set
+2025-09-23 12:47:02.809 [info] [tsFs-timing] 154ms for getHomeDirectory
+2025-09-23 12:47:04.664 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net
+2025-09-23 12:47:04.799 [info] [tsFs-timing] 137ms for readDirectory
+2025-09-23 12:47:08.106 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home
+2025-09-23 12:47:08.154 [info] [tsFs-timing] 49ms for readDirectory
+2025-09-23 12:47:09.520 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-23 12:47:09.571 [info] [tsFs-timing] 52ms for readDirectory
+2025-09-23 12:47:44.059 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr
+2025-09-23 12:47:44.096 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-23 12:47:44.120 [info] [tsFs-timing] 24ms for stat
+2025-09-23 12:47:44.121 [info] [tsFs-sftp] createDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr
+2025-09-23 12:47:44.146 [info] [tsFs-timing] 26ms for createDirectory
+2025-09-23 12:47:44.152 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-23 12:47:44.192 [info] [tsFs-timing] 40ms for readDirectory
+2025-09-23 12:48:23.078 [info] shutting down tsrelay
+2025-09-23 12:48:33.297 [info] [tsrelay] url: http://127.0.0.1:34151
+2025-09-23 12:48:33.300 [info] websocket is open
+2025-09-23 12:48:33.439 [info] [serve-status] Funnel is off
+2025-09-23 12:48:33.439 [info] [serve-status] HTTPS is off
+2025-09-23 12:48:33.439 [info] [tsrelay] initial ports are set
+2025-09-23 12:49:00.428 [info] [tsFs-timing] 149ms for getHomeDirectory
+2025-09-23 12:49:01.784 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net
+2025-09-23 12:49:01.880 [info] [tsFs-timing] 98ms for readDirectory
+2025-09-23 12:49:03.845 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home
+2025-09-23 12:49:03.884 [info] [tsFs-timing] 39ms for readDirectory
+2025-09-23 12:49:05.106 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg
+2025-09-23 12:49:05.151 [info] [tsFs-timing] 46ms for readDirectory
+2025-09-23 12:49:06.381 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/snap
+2025-09-23 12:49:06.425 [info] [tsFs-timing] 44ms for readDirectory
+2025-09-23 12:49:07.304 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr
+2025-09-23 12:49:07.350 [info] [tsFs-timing] 46ms for readDirectory
+2025-09-23 12:49:18.040 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr
+2025-09-23 12:49:18.073 [info] [tsFs-timing] 34ms for stat
+2025-09-23 12:49:18.076 [info] [tsFs-sftp] writeFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:49:18.118 [info] [tsFs-timing] 43ms for writeFile
+2025-09-23 12:49:18.133 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr
+2025-09-23 12:49:18.175 [info] [tsFs-timing] 43ms for readDirectory
+2025-09-23 12:49:20.788 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:49:20.789 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:49:20.820 [info] [tsFs-timing] 32ms for stat
+2025-09-23 12:49:20.826 [info] [tsFs-timing] 38ms for readFile
+2025-09-23 12:49:42.410 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:49:42.411 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:49:42.449 [info] [tsFs-timing] 38ms for stat
+2025-09-23 12:49:42.465 [info] [tsFs-timing] 55ms for readFile
+2025-09-23 12:49:48.299 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:49:48.333 [info] [tsFs-timing] 34ms for stat
+2025-09-23 12:51:53.728 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:51:53.759 [info] [tsFs-timing] 31ms for stat
+2025-09-23 12:53:17.099 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr
+2025-09-23 12:53:17.141 [info] [tsFs-timing] 42ms for stat
+2025-09-23 12:53:17.141 [info] [tsFs-sftp] writeFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:17.169 [info] [tsFs-timing] 28ms for writeFile
+2025-09-23 12:53:17.182 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr
+2025-09-23 12:53:17.232 [info] [tsFs-timing] 49ms for readDirectory
+2025-09-23 12:53:19.711 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:19.712 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:19.749 [info] [tsFs-timing] 38ms for stat
+2025-09-23 12:53:19.754 [info] [tsFs-timing] 43ms for readFile
+2025-09-23 12:53:49.112 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:49.114 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:49.157 [info] [tsFs-timing] 44ms for stat
+2025-09-23 12:53:49.161 [info] [tsFs-timing] 50ms for readFile
+2025-09-23 12:53:54.140 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:54.173 [info] [tsFs-timing] 34ms for stat
+2025-09-23 12:53:54.186 [info] [tsFs-sftp] writeFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:54.225 [info] [tsFs-timing] 38ms for writeFile
+2025-09-23 12:53:54.227 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 12:53:54.265 [info] [tsFs-timing] 39ms for stat
+2025-09-23 12:53:58.922 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:53:58.956 [info] [tsFs-timing] 34ms for stat
+2025-09-23 12:53:58.957 [info] [tsFs-sftp] writeFile: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:53:58.985 [info] [tsFs-timing] 28ms for writeFile
+2025-09-23 12:53:58.986 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:53:59.017 [info] [tsFs-timing] 31ms for stat
+2025-09-23 12:54:03.764 [info] terminal opened
+2025-09-23 12:54:04.272 [info] pid is 106542
+2025-09-23 12:54:04.272 [info] pid sent
+2025-09-23 12:59:20.748 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 12:59:20.782 [info] [tsFs-timing] 34ms for stat
+2025-09-23 13:40:10.241 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 13:40:10.283 [info] [tsFs-timing] 42ms for stat
+2025-09-23 13:40:11.930 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 13:40:11.986 [info] [tsFs-timing] 57ms for stat
+2025-09-23 13:55:52.844 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 13:55:52.897 [info] [tsFs-timing] 56ms for stat
+2025-09-23 13:56:03.503 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/.env
+2025-09-23 13:56:03.534 [info] [tsFs-timing] 32ms for stat
+2025-09-23 13:56:05.195 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/home/juanqg/servarr/compose.yaml
+2025-09-23 13:56:05.230 [info] [tsFs-timing] 35ms for stat
+2025-09-23 13:57:39.264 [info] [tsFs-timing] 222ms for getHomeDirectory
+2025-09-23 13:57:40.728 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg
+2025-09-23 13:57:40.768 [info] [tsFs-timing] 41ms for readDirectory
+2025-09-23 13:57:43.991 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg/jellyfin
+2025-09-23 13:57:44.030 [info] [tsFs-timing] 40ms for readDirectory
+2025-09-23 13:57:47.510 [info] [tsFs-sftp] readFile: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg/jellyfin/compose.yaml
+2025-09-23 13:57:47.510 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg/jellyfin/compose.yaml
+2025-09-23 13:57:47.541 [info] [tsFs-timing] 31ms for stat
+2025-09-23 13:57:47.544 [info] [tsFs-timing] 35ms for readFile
+2025-09-24 16:31:57.273 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg/jellyfin/compose.yaml
+2025-09-24 16:37:32.897 [error] [tsFs-sftp] stat: Error: No response from server
+2025-09-24 23:40:23.132 [info] [tsFs-sftp] stat: ts://juanqg@gmail.com/docker.kiko-uaru.ts.net/home/juanqg/jellyfin/compose.yaml
+2025-09-24 23:40:29.313 [info] shutting down tsrelay
+2025-09-24 23:40:29.341 [warning] [tsrelay] child process exited with code null

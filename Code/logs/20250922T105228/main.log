@@ -1,0 +1,5 @@
+2025-09-22 10:52:28.408 [info] update#setState idle
+2025-09-22 10:52:58.398 [info] update#setState checking for updates
+2025-09-22 10:52:58.556 [info] update#setState available for download
+2025-09-23 10:05:23.269 [warning] No ptyHost heartbeat after 6 seconds
+2025-09-23 10:05:28.290 [error] No ptyHost heartbeat after 12 seconds

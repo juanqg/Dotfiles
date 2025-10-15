@@ -1,0 +1,35 @@
+2025-10-04 20:39:54.493 [info] [main] Log level: Info
+2025-10-04 20:39:54.493 [info] [main] Validating found git in: "git"
+2025-10-04 20:39:54.493 [info] [main] Using git "2.51.0" from "git"
+2025-10-04 20:39:54.493 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-04 20:39:54.493 [info] > git rev-parse --show-toplevel [131ms]
+2025-10-04 20:39:54.493 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [113ms]
+2025-10-04 20:39:54.493 [info] [Model][openRepository] Opened repository (path): /home/juanqg/esp32cam/esp32cam-ready
+2025-10-04 20:39:54.493 [info] [Model][openRepository] Opened repository (real path): /home/juanqg/esp32cam/esp32cam-ready
+2025-10-04 20:39:54.493 [info] [Model][openRepository] Opened repository (kind): repository
+2025-10-04 20:39:54.675 [info] > git config --get commit.template [155ms]
+2025-10-04 20:39:54.859 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [6ms]
+2025-10-04 20:39:54.860 [info] > git rev-parse --show-toplevel [11ms]
+2025-10-04 20:39:54.864 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/juanqg/esp32cam/esp32cam-ready/.git/refs/remotes/origin/develop'
+2025-10-04 20:39:54.869 [info] > git rev-parse refs/remotes/origin/develop [5ms]
+2025-10-04 20:39:54.882 [info] > git status -z -uall [8ms]
+2025-10-04 20:39:54.882 [info] > git rev-parse --show-toplevel [14ms]
+2025-10-04 20:39:54.887 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-10-04 20:39:54.931 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [9ms]
+2025-10-04 20:39:54.937 [info] > git rev-parse --show-toplevel [50ms]
+2025-10-04 20:39:54.944 [info] > git config --get --local branch.develop.vscode-merge-base [8ms]
+2025-10-04 20:39:54.949 [info] > git config --get commit.template [17ms]
+2025-10-04 20:39:54.950 [info] > git rev-parse --show-toplevel [7ms]
+2025-10-04 20:39:54.985 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/develop refs/remotes/origin/develop [37ms]
+2025-10-04 20:39:54.998 [info] > git merge-base refs/heads/develop refs/remotes/origin/develop [8ms]
+2025-10-04 20:39:55.002 [info] > git rev-parse --show-toplevel [18ms]
+2025-10-04 20:39:55.003 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/develop refs/remotes/develop [23ms]
+2025-10-04 20:39:55.011 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/juanqg/esp32cam/esp32cam-ready/.git/refs/remotes/origin/develop'
+2025-10-04 20:39:55.012 [info] > git diff --name-status -z --diff-filter=ADMR 752674b5d846fd04b82e52a65ff4a749df2fa573...refs/remotes/origin/develop [10ms]
+2025-10-04 20:39:55.017 [info] > git rev-parse refs/remotes/origin/develop [6ms]
+2025-10-04 20:39:55.026 [info] > git rev-parse --show-toplevel [19ms]
+2025-10-04 20:39:55.031 [info] > git status -z -uall [10ms]
+2025-10-04 20:39:55.033 [info] > git rev-parse --show-toplevel [2ms]
+2025-10-04 20:39:55.033 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-10-04 20:39:55.056 [info] > git rev-parse --show-toplevel [14ms]
+2025-10-04 20:39:55.057 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)

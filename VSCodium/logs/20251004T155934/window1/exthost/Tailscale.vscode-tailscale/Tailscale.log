@@ -1,0 +1,23 @@
+2025-10-04 15:59:40.122 [info] [tsrelay] url: http://127.0.0.1:34049
+2025-10-04 15:59:40.122 [info] websocket is open
+2025-10-04 15:59:40.399 [info] [serve-status] Funnel is off
+2025-10-04 15:59:40.399 [info] [serve-status] HTTPS is off
+2025-10-04 15:59:40.400 [info] [tsrelay] initial ports are set
+2025-10-04 16:01:38.064 [info] shutting down tsrelay
+2025-10-04 16:01:44.039 [info] [tsrelay] url: http://127.0.0.1:42319
+2025-10-04 16:01:44.039 [info] websocket is open
+2025-10-04 16:01:44.090 [info] [tsrelay] initial ports are set
+2025-10-04 16:01:44.534 [info] [serve-status] Funnel is off
+2025-10-04 16:01:44.534 [info] [serve-status] HTTPS is off
+2025-10-04 16:02:55.694 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username juanqg: Timed out while waiting for handshake
+2025-10-04 16:02:55.694 [error] error expanding PeerTree: Error: Timed out while waiting for handshake
+2025-10-04 16:03:21.683 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username root: Timed out while waiting for handshake
+2025-10-04 16:03:21.683 [error] error expanding PeerTree: Error: Timed out while waiting for handshake
+2025-10-04 16:03:41.808 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username root: Timed out while waiting for handshake
+2025-10-04 16:03:41.808 [error] error expanding PeerTree: Error: Timed out while waiting for handshake
+2025-10-04 16:03:43.717 [info] [tsFs-sftp] readDirectory: ts://juanqg@gmail.com/t430.kiko-uaru.ts.net/~
+2025-10-04 16:04:03.721 [error] [ssh-conn-manager] Failed to connect to t430.kiko-uaru.ts.net with username root: Timed out while waiting for handshake
+2025-10-04 16:04:03.721 [error] [tsFs-sftp] readDirectory: Error: Timed out while waiting for handshake
+2025-10-04 16:04:20.604 [error] [ssh-conn-manager] Failed to connect to proxmox.kiko-uaru.ts.net with username juanqg: Connection timeout
+2025-10-04 16:04:20.604 [error] error expanding PeerTree: Error: Connection timeout
+2025-10-04 16:06:16.362 [info] shutting down tsrelay

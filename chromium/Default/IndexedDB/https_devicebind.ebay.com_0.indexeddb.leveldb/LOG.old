@@ -1,0 +1,15 @@
+2025/10/03-07:56:57.092 1043a Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/03-07:56:57.095 1043a Recovering log #4
+2025/10/03-07:56:57.095 1043a Reusing old log /home/juanqg/.config/chromium/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/000004.log 
+2025/10/03-07:57:02.051 1043c Level-0 table #8: started
+2025/10/03-07:57:02.053 1043c Level-0 table #8: 209 bytes OK
+2025/10/03-07:57:02.059 1043c Delete type=0 #4
+2025/10/03-07:57:02.060 1043c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/03-07:57:02.060 1043c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 77 : 1
+2025/10/03-07:57:02.060 1043c Compacting 1@1 + 1@2 files
+2025/10/03-07:57:02.062 1043c Generated table #9@1: 27 keys, 630 bytes
+2025/10/03-07:57:02.063 1043c Compacted 1@1 + 1@2 files => 630 bytes
+2025/10/03-07:57:02.066 1043c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/03-07:57:02.067 1043c Delete type=2 #5
+2025/10/03-07:57:02.067 1043c Delete type=2 #8
+2025/10/03-07:57:02.067 1043c Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 77 : 1 .. (end); will stop at (end)

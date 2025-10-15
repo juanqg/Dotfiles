@@ -1,0 +1,6 @@
+2025-09-16 19:43:34 Arduino IDE 2.3.6
+2025-09-16 19:43:34 Checking for frontend application configuration customizations. Module path: /opt/arduino-ide/resources/app/lib/backend/electron-main.js, destination 'package.json': /opt/arduino-ide/resources/app/package.json
+2025-09-16 19:43:34 Setting 'theia.frontend.config.appVersion' application configuration value to: "2.3.6" (type of string)
+2025-09-16 19:44:44 Arduino IDE 2.3.6
+2025-09-16 19:44:44 Checking for frontend application configuration customizations. Module path: /opt/arduino-ide/resources/app/lib/backend/electron-main.js, destination 'package.json': /opt/arduino-ide/resources/app/package.json
+2025-09-16 19:44:44 Setting 'theia.frontend.config.appVersion' application configuration value to: "2.3.6" (type of string)

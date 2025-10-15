@@ -1,0 +1,12 @@
+2025/10/14-13:34:18.436 d1f Reusing MANIFEST /home/juanqg/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/14-13:34:18.436 d1f Recovering log #110
+2025/10/14-13:34:18.437 d1f Reusing old log /home/juanqg/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000110.log 
+2025/10/14-17:47:52.500 d1d Level-0 table #115: started
+2025/10/14-17:47:52.520 d1d Level-0 table #115: 1625534 bytes OK
+2025/10/14-17:47:52.525 d1d Delete type=0 #110
+2025/10/14-17:49:04.742 d1f Compacting 1@1 + 1@2 files
+2025/10/14-17:49:04.765 d1f Generated table #116@1: 2420 keys, 112914 bytes
+2025/10/14-17:49:04.765 d1f Compacted 1@1 + 1@2 files => 112914 bytes
+2025/10/14-17:49:04.769 d1f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/14-17:49:04.769 d1f Delete type=2 #112
+2025/10/14-17:49:04.769 d1f Delete type=2 #115

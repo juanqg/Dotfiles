@@ -1,0 +1,11 @@
+I[16:01:44.130] clangd version 20.1.8
+I[16:01:44.130] Features: linux
+I[16:01:44.130] PID: 4039025
+I[16:01:44.130] Working directory: /home/juanqg/esp32cam/esp32cam-ready
+I[16:01:44.130] argv[0]: /usr/bin/clangd
+I[16:01:44.131] Starting LSP over stdin/stdout
+I[16:01:44.131] <-- initialize(0)
+I[16:01:44.132] --> reply:initialize(0) 0 ms
+I[16:01:44.581] <-- initialized
+I[16:05:12.544] <-- $/setTrace
+I[16:05:12.544] unhandled notification $/setTrace

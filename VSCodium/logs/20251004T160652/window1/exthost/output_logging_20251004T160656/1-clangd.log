@@ -1,0 +1,9 @@
+I[16:06:57.988] clangd version 20.1.8
+I[16:06:57.989] Features: linux
+I[16:06:57.989] PID: 4045425
+I[16:06:57.989] Working directory: /home/juanqg/esp32cam/esp32cam-ready
+I[16:06:57.989] argv[0]: /usr/bin/clangd
+I[16:06:57.989] Starting LSP over stdin/stdout
+I[16:06:57.990] <-- initialize(0)
+I[16:06:57.994] --> reply:initialize(0) 4 ms
+I[16:06:58.622] <-- initialized

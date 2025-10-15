@@ -1,0 +1,12 @@
+{
+  "hosts": {
+    "proxmox.kiko-uaru.ts.net": {
+      "user": "root",
+      "rootDir": "/"
+    },
+    "t430.kiko-uaru.ts.net": {
+      "user": "juanqg",
+      "rootDir": "/"
+    }
+  }
+}
